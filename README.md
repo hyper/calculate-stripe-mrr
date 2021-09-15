@@ -1,1 +1,1 @@
-# calculate-shrey-mrr
+# calculate-stripe-mrr

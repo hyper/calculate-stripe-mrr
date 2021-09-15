@@ -1,5 +1,5 @@
 {
-  "name": "shrey-mrr-calculator",
+  "name": "calculate-stripe-mrr",
   "version": "1.0.0",
   "scripts": {
     "start": "node ./bin/start"

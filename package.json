@@ -1,0 +1,13 @@
+{
+  "name": "shrey-mrr-calculator",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./bin/start"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "stripe": "^8.175.0"
+  }
+}

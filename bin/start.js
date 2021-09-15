@@ -1,6 +1,5 @@
 const stripe = require('../lib/stripe');
-g
-const stripeAPIKeys = []; // fill this with Stripe API keys, or fetch from DB
+const stripeAPIKeys = require('../data/keys');
 
 (async () => {
   let totalMonthlyGMV = 0;
